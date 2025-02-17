@@ -44,15 +44,11 @@ Video Calls: Jitsi Meet (Self-hosted)
 
 *. Doctor Profile Setup → Doctors enter their specialization and availability.
 
-*.  Search & View Doctors → Patients filter doctors by specialty & location (using OpenStreetMap).
+*. Search & View Doctors → Patients filter doctors by specialty & location (using OpenStreetMap).
 
 *. Appointment Booking → Patients select a time slot and confirm the booking.
 
 *. Doctor approval → Doctors can accept or reject bookings.
-
-*. Offline Support → Patients can book and manage appointments even without an internet connection.
-
-*. Self-Hosted Video Calls → Jitsi Meet integration for remote consultations.
 
 ---
 
