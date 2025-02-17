@@ -24,9 +24,6 @@ For Doctors
 ✅ Accept or reject appointments
 ✅ View upcoming appointments
 
-For Admin (Optional, if time permits)
-✅ Manage users (doctors & patients)
-✅ Approve/reject doctor profiles
 
 ---
 
