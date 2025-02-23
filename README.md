@@ -34,7 +34,6 @@ Backend: Node.js (Express)
 Database: PostgreSQL / Supabase (FOSS alternative to Firebase)
 Authentication: JWT (Self-hosted)
 Offline Mode: Service Workers (Workbox)
-Video Calls: Jitsi Meet (Self-hosted)
 
 ---
 
